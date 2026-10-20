@@ -2,7 +2,6 @@
 
 Full-stack developer building web applications with **Java, Spring Boot, React, and MySQL**.
 
-- 🔭 Currently working on **Resume Information Extractor & Something New... Will Comee...** 
 - 🌱 Learning and strengthening my **JavaScript & Java** fundamentals
 - 💬 Developed Using Java, Spring Boot, React, or building full-stack CRUD applications
 - 📫 Reach me at **hiremathsandesh14@gmail.com**
@@ -21,6 +20,11 @@ Full-stack developer building web applications with **Java, Spring Boot, React, 
 ---
 
 ### 🚀 Featured Projects
+**[Expense Tracker](https://expense-tracker-1-r1mr.onrender.com/)**
+An interactive, responsive, modern financial management web application built with React, Vite, and JavaScript.
+
+**[Expense Tracker](https://expense-tracker-1-r1mr.onrender.com/)**
+An interactive, responsive, modern financial management web application built with React, Vite, and JavaScript.
 
 **[Resume Information Extractor](https://github.com/CommitWithSandy/Resume-Information-Extractor)**
 A modern, format-independent Applicant Tracking System (ATS) and AI-powered resume information extractor built with Spring Boot 3, MySQL 8, React 18, and Vite. Features automated multi-project extraction.
